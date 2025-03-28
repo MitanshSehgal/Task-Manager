@@ -29,12 +29,6 @@ A simple and efficient **Task Manager** application to help users organize and t
    npm start  # For React/Node.js
    python app.py  # For Flask/Django
    ```
-
-## 📸 Screenshots
-(Add screenshots of your project UI here)
-
-## 🤝 Contributing
-Want to improve this project? Feel free to:
 - **Fork** this repository
 - **Create** a new branch
 - **Submit** a pull request
