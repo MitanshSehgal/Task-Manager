@@ -54,9 +54,9 @@ project_root_dir
 ## 📝 Tutorial Phases
 1. **Simple Hello World app**
 2. **Setup database connection** & sign up for MongoDB Cloud
-3. **Setup `__init__.py` file** (Project Configurations)
+3. **Setup `run.py` file** (Project Configurations)
 4. **Setup Base Template**
-5. **Setup `view_todos.html` file**
+5. **Setup `view.html` file**
 6. **Create Flask Forms**
 7. **Implement Insert Operation**
 8. **Implement Sweet Alerts**
