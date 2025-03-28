@@ -52,18 +52,18 @@ project_root_dir
 ```
 
 ## 📝 Tutorial Phases
-1️⃣ Simple **Hello World** app
-2️⃣ Setup **database connection** & sign up for MongoDB Cloud
-3️⃣ Setup `__init__.py` file (Project Configurations)
-4️⃣ Setup **Base Template**
-5️⃣ Setup `view_todos.html` file
-6️⃣ Create **Flask Forms**
-7️⃣ Implement **Insert Operation**
-8️⃣ Implement **Sweet Alerts**
-9️⃣ Implement **Retrieve Operation**
-🔟 Implement **Delete Operation**
-1️⃣1️⃣ Implement **Update Functionality**
-1️⃣2️⃣ Setup **.gitignore** file
+1. **Simple Hello World app**
+2. **Setup database connection** & sign up for MongoDB Cloud
+3. **Setup `__init__.py` file** (Project Configurations)
+4. **Setup Base Template**
+5. **Setup `view_todos.html` file**
+6. **Create Flask Forms**
+7. **Implement Insert Operation**
+8. **Implement Sweet Alerts**
+9. **Implement Retrieve Operation**
+10. **Implement Delete Operation**
+11. **Implement Update Functionality**
+12. **Setup `.gitignore` file**
 
 ---
 This guide will help you build a full CRUD application with Flask and MongoDB. 🚀
